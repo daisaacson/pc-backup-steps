@@ -64,9 +64,6 @@
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.Skype"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VC++2013Redist-x64"
 				},
 				{
