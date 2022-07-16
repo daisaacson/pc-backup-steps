@@ -7,115 +7,115 @@
 			"Packages" : 
 			[
 				{
-					"PackageIdentifier": "7zip.7zip"
+					"PackageIdentifier" : "7zip.7zip"
 				},
 				{
-					"PackageIdentifier": "AndreWiethoff.ExactAudioCopy"
+					"PackageIdentifier" : "AndreWiethoff.ExactAudioCopy"
 				},
 				{
-					"PackageIdentifier": "BraveSoftware.BraveBrowser"
+					"PackageIdentifier" : "BraveSoftware.BraveBrowser"
 				},
 				{
-					"PackageIdentifier": "Canonical.Ubuntu"
+					"PackageIdentifier" : "Canonical.Ubuntu"
 				},
 				{
-					"PackageIdentifier": "CPUID.CPU-Z"
+					"PackageIdentifier" : "CPUID.CPU-Z"
 				},
 				{
-					"PackageIdentifier": "Debian.Debian"
+					"PackageIdentifier" : "Debian.Debian"
 				},
 				{
-					"PackageIdentifier": "Docker.DockerDesktop"
+					"PackageIdentifier" : "Docker.DockerDesktop"
 				},
 				{
-					"PackageIdentifier": "DominikReichl.KeePass"
+					"PackageIdentifier" : "DominikReichl.KeePass"
 				},
 				{
-					"PackageIdentifier": "Git.Git"
+					"PackageIdentifier" : "Git.Git"
 				},
 				{
-					"PackageIdentifier": "GnuPG.GnuPG"
+					"PackageIdentifier" : "GnuPG.GnuPG"
 				},
 				{
-					"PackageIdentifier": "GnuPG.Gpg4win"
+					"PackageIdentifier" : "GnuPG.Gpg4win"
 				},
 				{
-					"PackageIdentifier": "GOG.Galaxy"
+					"PackageIdentifier" : "GOG.Galaxy"
 				},
 				{
-					"PackageIdentifier": "GuinpinSoft.MakeMKV"
+					"PackageIdentifier" : "GuinpinSoft.MakeMKV"
 				},
 				{
-					"PackageIdentifier": "HandBrake.HandBrake"
+					"PackageIdentifier" : "HandBrake.HandBrake"
 				},
 				{
-					"PackageIdentifier": "Logitech.GHUB"
+					"PackageIdentifier" : "Logitech.GHUB"
 				},
 				{
-					"PackageIdentifier": "Microsoft.DotNet.DesktopRuntime.6"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
 				},
 				{
-					"PackageIdentifier": "Microsoft.Edge"
+					"PackageIdentifier" : "Microsoft.Edge"
 				},
 				{
-					"PackageIdentifier": "Microsoft.EdgeWebView2Runtime"
+					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
 				},
 				{
-					"PackageIdentifier": "Microsoft.PowerShell"
+					"PackageIdentifier" : "Microsoft.PowerShell"
 				},
 				{
-					"PackageIdentifier": "Microsoft.PowerToys"
+					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VC++2012Redist-x64"
+					"PackageIdentifier" : "Microsoft.VC++2012Redist-x64"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VC++2012Redist-x86"
+					"PackageIdentifier" : "Microsoft.VC++2012Redist-x86"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VC++2013Redist-x64"
+					"PackageIdentifier" : "Microsoft.VC++2013Redist-x64"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VC++2013Redist-x86"
+					"PackageIdentifier" : "Microsoft.VC++2013Redist-x86"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VC++2015-2022Redist-x64"
+					"PackageIdentifier" : "Microsoft.VC++2015-2022Redist-x64"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VC++2015-2022Redist-x86"
+					"PackageIdentifier" : "Microsoft.VC++2015-2022Redist-x86"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VisualStudioCode"
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
-					"PackageIdentifier": "Microsoft.WindowsTerminal"
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
 				},
 				{
-					"PackageIdentifier": "MKVToolNix.MKVToolNix"
+					"PackageIdentifier" : "MKVToolNix.MKVToolNix"
 				},
 				{
-					"PackageIdentifier": "Notepad++.Notepad++"
+					"PackageIdentifier" : "Notepad++.Notepad++"
 				},
 				{
-					"PackageIdentifier": "PuTTY.PuTTY"
+					"PackageIdentifier" : "PuTTY.PuTTY"
 				},
 				{
-					"PackageIdentifier": "Synology.ActiveBackupForBusinessAgent"
+					"PackageIdentifier" : "Synology.ActiveBackupForBusinessAgent"
 				},
 				{
-					"PackageIdentifier": "Valve.Steam"
+					"PackageIdentifier" : "Valve.Steam"
 				},
 				{
-					"PackageIdentifier": "VideoLAN.VLC"
+					"PackageIdentifier" : "VideoLAN.VLC"
 				},
 				{
-					"PackageIdentifier": "WinDirStat.WinDirStat"
+					"PackageIdentifier" : "WinDirStat.WinDirStat"
 				},
 				{
-					"PackageIdentifier": "WireGuard.WireGuard"
+					"PackageIdentifier" : "WireGuard.WireGuard"
 				},
 				{
-					"PackageIdentifier": "WiresharkFoundation.Wireshark"
+					"PackageIdentifier" : "WiresharkFoundation.Wireshark"
 				}
 			],
 			"SourceDetails" : 
