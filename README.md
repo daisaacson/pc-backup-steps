@@ -32,7 +32,7 @@ Steps to Backup and Restore my PCs
 * Games
   * C:\Users\\***%USERNAME%***\Documents\My Games
 
-    For some reasone some games don't use ***Documents*** Location path
+    For some reason some games don't use ***Documents*** Location path
 
   * C:\Users\\***%USERNAME%***\Games
   * C:\Users\\***%USERNAME%***\Saved Games
