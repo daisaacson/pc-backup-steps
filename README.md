@@ -43,6 +43,8 @@ Steps to Backup and Restore my PCs
 
 * Data
   * C:\Users\\***%USERNAME%***\AppData
+  
+    * C:\Users\\***%USERNAME%***\AppData\Roaming\gnupg
 
     I usually only get the WSL images I have for Linux
 
