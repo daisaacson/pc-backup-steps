@@ -44,12 +44,7 @@ Steps to Backup and Restore my PCs
 * Data
   * C:\Users\\***%USERNAME%***\AppData
   
-    * C:\Users\\***%USERNAME%***\AppData\Roaming\gnupg
-
-    I usually only get the WSL images I have for Linux
-
-    * .\Local\Packages\TheDebianProject.DebianGNULinux_*
-    * .\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_*
+    * .\Roaming\gnupg
 
 ### System Files
 
@@ -57,6 +52,13 @@ Steps to Backup and Restore my PCs
   * C:\Program Files (x86)\Steam\userdata\
 
     Steam stores user profiles here
+
+### WSL
+
+```cmd
+wsl --export Debian debianbackup.tar
+wsl --export Ubuntu ubuntubackup.tar
+```
 
 ### Applications
 
@@ -69,4 +71,11 @@ winget export -o d:\tmp\winget-apps.json
 
 ```cmd
 winget import -i d:\tmp\winget-apps.json
+```
+
+### WSL
+
+```cmd
+wsl --import Debian C:\Users\%USERNAME%\AppData\Local\Packages\TheDebianProject.DebianGNULinux_76v4gfsz19hv4\LocalState debianbackup.tar
+wsl --import Ubuntu C:\Users\%USERNAME%\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu_79rhkp1fndgsc\LocalState ubuntubackup.tar
 ```
